@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/sudiptadeb/keysat/internal/capture"
+	"github.com/debkosh/keysat/internal/capture"
 )
 
 // eventChan is the package-level channel that the C callback writes into.

@@ -6,8 +6,8 @@ import (
 	"log/slog"
 	"net/http"
 
-	"github.com/sudiptadeb/keysat/internal/context"
-	"github.com/sudiptadeb/keysat/internal/storage"
+	"github.com/debkosh/keysat/internal/context"
+	"github.com/debkosh/keysat/internal/storage"
 )
 
 //go:embed static/*

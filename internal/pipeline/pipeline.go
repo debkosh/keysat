@@ -5,10 +5,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sudiptadeb/keysat/internal/capture"
-	kcontext "github.com/sudiptadeb/keysat/internal/context"
-	"github.com/sudiptadeb/keysat/internal/platform/darwin"
-	"github.com/sudiptadeb/keysat/internal/storage"
+	"github.com/debkosh/keysat/internal/capture"
+	kcontext "github.com/debkosh/keysat/internal/context"
+	"github.com/debkosh/keysat/internal/platform/darwin"
+	"github.com/debkosh/keysat/internal/storage"
 )
 
 // Pipeline is the main orchestrator: capture -> words -> context -> store.

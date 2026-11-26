@@ -1,4 +1,4 @@
-module github.com/sudiptadeb/keysat
+module github.com/debkosh/keysat
 
 go 1.25.1
 

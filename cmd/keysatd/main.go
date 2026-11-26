@@ -7,11 +7,11 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/sudiptadeb/keysat/internal/config"
-	"github.com/sudiptadeb/keysat/internal/context"
-	"github.com/sudiptadeb/keysat/internal/pipeline"
-	"github.com/sudiptadeb/keysat/internal/storage"
-	"github.com/sudiptadeb/keysat/internal/web"
+	"github.com/debkosh/keysat/internal/config"
+	"github.com/debkosh/keysat/internal/context"
+	"github.com/debkosh/keysat/internal/pipeline"
+	"github.com/debkosh/keysat/internal/storage"
+	"github.com/debkosh/keysat/internal/web"
 )
 
 func main() {

@@ -11,7 +11,7 @@ import (
 
 
 
-	"github.com/sudiptadeb/keysat/internal/platform/darwin"
+	"github.com/debkosh/keysat/internal/platform/darwin"
 )
 
 // TypingContext describes the current typing context.
