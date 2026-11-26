@@ -76,7 +76,7 @@ It's a self-quantification tool. **All data stays on your machine** (`~/.keysat/
 
 ```bash
 # clone
-git clone https://github.com/sudiptadeb/keysat.git
+git clone https://github.com/debkosh/keysat.git
 cd keysat
 
 # build (the fts5 build tag enables full-text search)
